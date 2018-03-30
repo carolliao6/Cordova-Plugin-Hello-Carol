@@ -1,0 +1,25 @@
+{
+  "name": "com.walsin.cordova.plugin.demo",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.walsin.cordova.plugin.demo",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolliao6/Cordova-Plugin-Hello-Carol.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolliao6/Cordova-Plugin-Hello-Carol/issues"
+  },
+  "homepage": "https://github.com/carolliao6/Cordova-Plugin-Hello-Carol#readme"
+}
